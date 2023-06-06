@@ -1,5 +1,6 @@
 # CS-SurvivalGuide
 ![](https://img.shields.io/github/repo-size/Iamnotphage/CS-SurvivalGuide) ![](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue) ![](https://img.shields.io/github/stars/Iamnotphage/CS-SurvivalGuide?style=social)
+
 西电CS学生自救指南，包含计组、计网、OS的学习指南。
 
 - [CS-SurvivalGuide](#cs-survivalguide)
