@@ -21,7 +21,17 @@
 
 下面每门课程都附有相应的Markdown文章，往下滑，点击即可。
 
-另外，如果你Github下载资料慢，可以移步下面的链接，使用的是阿里云盘。
+三种方法获取资料：
+
+1.使用git直接clone本库
+
+``
+git clone https://github.com/Iamnotphage/CS-SurvivalGuide
+``
+
+2.网页版下载本库
+
+3.国内阿里云盘地址：
 
 
 # 计算机组织和体系结构/组成原理
