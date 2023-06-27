@@ -29,7 +29,7 @@
 当然传说中的CSAPP
 <div><img src="../../images/arch-book3.jpg" width=250 /></div>
 
-然后推荐 **MIT的6.S081/6.828***
+然后推荐 **MIT的6.S081/6.828**
 
 # 指南
 这门课不难，认真学，实验认真做。
