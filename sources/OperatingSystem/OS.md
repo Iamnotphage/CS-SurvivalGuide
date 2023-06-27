@@ -24,10 +24,12 @@
 
 # 推荐书籍
 首先必然是课内要考的书 方敏的《计算机操作系统》（因为要考试）
+<div><img src="../../images/os-book1.png" width=250 /></div>
 
 当然传说中的CSAPP
+<div><img src="../../images/arch-book3.jpg" width=250 /></div>
 
-然后推荐MIT的6.S081/6.828
+然后推荐 **MIT的6.S081/6.828***
 
 # 指南
 这门课不难，认真学，实验认真做。
