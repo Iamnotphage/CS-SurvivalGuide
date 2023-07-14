@@ -25,9 +25,9 @@
 
 1.使用git直接clone本库
 
-``
+```
 git clone https://github.com/Iamnotphage/CS-SurvivalGuide
-``
+```
 
 2.网页版下载本库
 
